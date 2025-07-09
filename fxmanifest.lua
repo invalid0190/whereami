@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
+author 'Ay-eye'
 description 'WhereAmI - Location-based zone notifications'
 version '1.0.0'
 
