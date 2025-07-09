@@ -20,6 +20,8 @@ A modern, customizable, and visually stunning zone notification system for FiveM
 
 ---
 
+## Discord : https://discord.gg/9gswanHEX3
+
 ## 💡 Why Use This Script?
 
 - **Professional Look:** Instantly modernizes your server's UI with a clean, immersive notification system.
@@ -33,7 +35,7 @@ A modern, customizable, and visually stunning zone notification system for FiveM
 ## 🛠️ Installation
 
 ### 1. **Add the Resource**
-- Place the entire script folder (e.g. `whereami`) in your server's `resources` directory.
+- Place the entire script folder (e.g. `whereami`) in your server's `resources\[standalone]` directory.
 
 ### 2. **Configure Your Zones**
 - Open `config.lua` and define your zones:
@@ -89,8 +91,18 @@ A modern, customizable, and visually stunning zone notification system for FiveM
 
 ---
 
+## Preview 
+1.![image](https://github.com/user-attachments/assets/655a956a-2a46-4147-ab2b-94074ba82728)
+2.![image](https://github.com/user-attachments/assets/73e9a52f-7d85-48a7-a8e7-3f66a2d6c8e0)
+3.![image](https://github.com/user-attachments/assets/732c3393-7e9f-4662-a761-58c42124cb5b)
+4.![image](https://github.com/user-attachments/assets/f9c025a1-b0ad-43e6-bf6c-1b79d0a38d55)
+
+
+
+
+
 ## ❓ Support & Customization
-- For help, suggestions, or custom features, open an issue or contact the author.
+- For help, suggestions, or custom features, open an issue or join discord server https://discord.gg/9gswanHEX3 .
 - You can easily extend the script for more zone types, icons, or sounds.
 
 ---
